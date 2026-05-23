@@ -1,3 +1,3 @@
-- My name is Unika
-- I’m willing to collaborate on anything
-- Pronouns: she/her
+# Student and Rust developer
+I like systems programming and making bespoke frameworks
+Open to collaborate on any project
