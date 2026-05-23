@@ -1,3 +1,3 @@
-## Student and Rust developer
+## Student and Rust/C developer
 I like systems programming and making bespoke frameworks\
 Open to collaborate on any project
